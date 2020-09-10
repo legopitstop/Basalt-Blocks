@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "basaltblocks:basalt_slab",
+    "basaltblocks:smooth_basalt_slab",
+    "basaltblocks:basalt_cobblestone_slab",
+    "basaltblocks:polished_basalt_slab",
+    "basaltblocks:smooth_polished_basalt_slab",
+    "basaltblocks:polished_basalt_brick_slab"
+  ]
+}

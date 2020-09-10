@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "basaltblocks:block/basalt_cobblestone"
+  }
+}

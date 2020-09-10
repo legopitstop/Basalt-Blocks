@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "forge:smooth_basalt"
+  },
+  "result": "basaltblocks:smooth_basalt_wall",
+  "count": 1
+}

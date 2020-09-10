@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "basaltblocks:smooth_basalt_slab",
+    "basaltblocks:smooth_basalt_stairs",
+    "basaltblocks:smooth_basalt_wall",
+    "basaltblocks:smooth_basalt_button",
+    "basaltblocks:smooth_basalt_pressure_plate"
+  ]
+}

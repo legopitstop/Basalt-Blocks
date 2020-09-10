@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="Legopitstop Common License"
+issueTrackerURL="https://github.com/legopitstop/Basalt-Blocks-1.1.6.1/issues"
+
+[[mods]]
+modId="basaltblocks"
+version="1.0.0"
+displayName="Basalt Blocks"
+updateJSONURL="https://raw.githubusercontent.com/legopitstop/ModUpdates/master/BasaltBlocks/update.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/basalt-blocks"
+logoFile="pack.png"
+credits=""
+authors="Legopitstop"
+description='''
+Adds some basalt blocks that are missing in vanilla Minecraft.
+'''
+
+[[dependencies.basaltblocks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[34,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.basaltblocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3]"
+    ordering="NONE"
+    side="BOTH"

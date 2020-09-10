@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "basaltblocks:block/smooth_basalt_pressure_plate"
+    },
+    "powered=true": {
+      "model": "basaltblocks:block/smooth_basalt_pressure_plate_down"
+    }
+  }
+}

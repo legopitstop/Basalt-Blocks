@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "basaltblocks:basalt_button",
+    "basaltblocks:smooth_basalt_button",
+    "basaltblocks:basalt_cobblestone_button",
+    "basaltblocks:polished_basalt_button",
+    "basaltblocks:smooth_polished_basalt_button",
+    "basaltblocks:polished_basalt_brick_button"
+  ]
+}

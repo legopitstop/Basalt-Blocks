@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "basaltblocks:item/polished_basalt_brick_door"
+  }
+}

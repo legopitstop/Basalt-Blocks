@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "basaltblocks:block/smooth_basalt",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "basaltblocks:block/smooth_basalt"
+    },
+    "axis=z": {
+      "model": "basaltblocks:block/smooth_basalt",
+      "x": 90
+    }
+  }
+}

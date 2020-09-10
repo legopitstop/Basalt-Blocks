@@ -1,0 +1,49 @@
+{
+    "itemGroup.basaltBlocksTab": "Basalt Blocks",
+
+    "block.basaltblocks.basalt_slab": "Basalt Slab",
+    "block.basaltblocks.basalt_stairs": "Basalt Stairs",
+    "block.basaltblocks.basalt_wall": "Basalt Wall",
+    "block.basaltblocks.basalt_button": "Basalt Button",
+    "block.basaltblocks.basalt_pressure_plate": "Basalt Pressure Plate",
+
+    "block.basaltblocks.smooth_basalt": "Smooth Basalt",
+    "block.basaltblocks.smooth_basalt_slab": "Smooth Basalt Slab",
+    "block.basaltblocks.smooth_basalt_stairs": "Smooth Basalt Stairs",
+    "block.basaltblocks.smooth_basalt_wall": "Smooth Basalt Wall",
+    "block.basaltblocks.smooth_basalt_button": "Smooth Basalt Button",
+    "block.basaltblocks.smooth_basalt_pressure_plate": "Smooth Basalt Pressure Plate",
+
+    "block.basaltblocks.polished_basalt_slab": "Polished Basalt Slab",
+    "block.basaltblocks.polished_basalt_stairs": "Polished Basalt Stairs",
+    "block.basaltblocks.polished_basalt_wall": "Polished Basalt Wall",
+    "block.basaltblocks.chiseled_polished_basalt": "Chiseled Polished Basalt",
+    "block.basaltblocks.polished_basalt_button": "Polished Basalt Button",
+    "block.basaltblocks.polished_basalt_pressure_plate": "Polished Basalt Pressure Plate",
+
+    "block.basaltblocks.smooth_polished_basalt": "Smooth Polished Basalt",
+    "block.basaltblocks.smooth_polished_basalt_slab": "Smooth Polished Basalt Slab",
+    "block.basaltblocks.smooth_polished_basalt_stairs": "Smooth Polished Basalt Stairs",
+    "block.basaltblocks.smooth_polished_basalt_wall": "Smooth Polished Basalt Wall",
+    "block.basaltblocks.smooth_polished_basalt_button": "Smooth Polished Basalt Button",
+    "block.basaltblocks.smooth_polished_basalt_pressure_plate": "Smooth Polished Basalt Pressure Plate",
+
+    "block.basaltblocks.cracked_polished_basalt_bricks": "Cracked Polished Basalt Bricks",
+    "block.basaltblocks.polished_basalt_bricks": "Polished Basalt Bricks",
+    "block.basaltblocks.polished_basalt_brick_slab": "Polished Basalt Brick Slab",
+    "block.basaltblocks.polished_basalt_brick_stairs": "Polished Basalt Brick Stairs",
+    "block.basaltblocks.polished_basalt_brick_wall": "Polished Basalt Brick Wall",
+    "block.basaltblocks.polished_basalt_brick_button": "Polished Basalt Brick Button",
+    "block.basaltblocks.polished_basalt_brick_pressure_plate": "Polished Basalt Brick Pressure Plate",
+    "block.basaltblocks.polished_basalt_brick_pillar": "Polished Basalt Brick Pillar",
+    "block.basaltblocks.polished_basalt_brick_door": "Polished Basalt Brick Door",
+    "block.basaltblocks.polished_basalt_brick_trapdoor": "Polished Basalt Brick Trapdoor",
+
+    "block.basaltblocks.basalt_cobblestone": "Basalt Cobblestone Bricks",
+    "block.basaltblocks.basalt_cobblestone_slab": "Basalt Cobblestone Slab",
+    "block.basaltblocks.basalt_cobblestone_stairs": "Basalt Cobblestone Stairs",
+    "block.basaltblocks.basalt_cobblestone_wall": "Basalt Cobblestone Wall",
+    "block.basaltblocks.basalt_cobblestone_button": "Basalt Cobblestone Button",
+    "block.basaltblocks.basalt_cobblestone_pressure_plate": "Basalt Cobblestone Pressure Plate"
+
+}

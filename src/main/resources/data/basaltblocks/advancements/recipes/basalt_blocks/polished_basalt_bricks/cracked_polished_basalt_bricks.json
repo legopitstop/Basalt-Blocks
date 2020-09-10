@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "basaltblocks:polished_basalt_bricks/cracked_polished_basalt_bricks"
+    ]
+  },
+  "criteria": {
+    "has_basalt_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:polished_basalt_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "basaltblocks:polished_basalt_bricks/cracked_polished_basalt_bricks"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_basalt_bricks",
+      "has_the_recipe"
+    ]
+  ]
+}

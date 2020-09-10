@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "basaltblocks:block/polished_basalt_brick_door_top",
+    "bottom": "basaltblocks:block/polished_basalt_brick_door_bottom"
+  }
+}
