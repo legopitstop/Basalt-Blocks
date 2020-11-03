@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "basaltblocks:polished_basalt_bricks"
+    }
+  },
+  "result": {
+    "item": "basaltblocks:polished_basalt_brick_pillar",
+    "count": 2
+  }
+}

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: Basalt Blocks
+Implementation-Version: 1.0.0
+Specification-Vendor: Legopitstop
+Specification-Title: basaltblocks
+Implementation-Timestamp: 2020-09-12T18:55:53-0500
+Specification-Version: 1
+Implementation-Vendor: Legopitstop

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "basaltblocks:basalt_cobblestone"
+    }
+  },
+  "result": {
+    "item": "basaltblocks:basalt_cobblestone_slab",
+    "count": 6
+  }
+}

@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "#basaltblocks:stairs"
+    "basaltblocks:basalt_stairs",
+    "basaltblocks:smooth_basalt_stairs",
+    "basaltblocks:basalt_cobblestone_stairs",
+    "basaltblocks:polished_basalt_stairs",
+    "basaltblocks:smooth_polished_basalt_stairs",
+    "basaltblocks:polished_basalt_brick_stairs"
   ]
 }

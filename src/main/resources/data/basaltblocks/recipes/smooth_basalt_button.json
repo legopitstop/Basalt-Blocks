@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "basaltblocks:smooth_basalt"
+    }
+  ],
+  "result": {
+    "item": "basaltblocks:smooth_basalt_button"
+  }
+}

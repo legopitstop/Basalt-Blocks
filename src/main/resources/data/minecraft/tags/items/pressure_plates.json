@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "#basaltblocks:pressure_plates"
+    "basaltblocks:basalt_pressure_plate",
+    "basaltblocks:smooth_basalt_pressure_plate",
+    "basaltblocks:basalt_cobblestone_pressure_plate",
+    "basaltblocks:polished_basalt_pressure_plate",
+    "basaltblocks:smooth_polished_basalt_pressure_plate",
+    "basaltblocks:polished_basalt_brick_pressure_plate"
   ]
 }

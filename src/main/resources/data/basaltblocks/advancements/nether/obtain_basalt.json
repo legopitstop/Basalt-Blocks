@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:nether/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:basalt"
+    },
+    "title": {
+      "translate": "advancements.nether.obtain_basalt.title"
+    },
+    "description": {
+      "translate": "advancements.nether.obtain_basalt.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "basalt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:basalt"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "basalt"
+    ]
+  ]
+}
