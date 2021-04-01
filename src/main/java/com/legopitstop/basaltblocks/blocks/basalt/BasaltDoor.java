@@ -11,10 +11,10 @@ public class BasaltDoor extends DoorBlock {
     public BasaltDoor() {
         super(Properties.create(Material.ROCK)
                 .hardnessAndResistance(1.25f,4.2f)
-                .sound(SoundType.field_235587_I_)
+                .sound(SoundType.BASALT)
                 .harvestLevel(0)
                 .harvestTool(ToolType.PICKAXE)
-                .func_235861_h_()
+                .setRequiresTool()
                 .notSolid());
     }
 }

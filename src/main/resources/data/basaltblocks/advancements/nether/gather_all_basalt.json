@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/root",
+  "parent": "basaltblocks:nether/obtain_basalt",
   "display": {
     "icon": {
       "item": "basaltblocks:polished_basalt_bricks"
@@ -10,7 +10,7 @@
     "description": {
       "translate": "advancements.nether.gather_all_basalt.description"
     },
-    "frame": "challange",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

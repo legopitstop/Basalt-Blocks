@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "basaltblocks:basalt"
+    "item": "minecraft:basalt"
   },
   "result": "basaltblocks:smooth_basalt",
   "experience": 0.1,

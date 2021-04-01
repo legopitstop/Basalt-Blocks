@@ -9,11 +9,11 @@ public class BasaltStairs extends StairsBlock {
     // field_235587_I_ -> BASALT
     // func_235861_h_  -> setRequiresTool
     public BasaltStairs() {
-        super(Blocks.field_235337_cO_.getDefaultState(),AbstractBlock.Properties.create(Material.ROCK)
+        super(Blocks.BASALT.getDefaultState(),AbstractBlock.Properties.create(Material.ROCK)
                 .hardnessAndResistance(1.25f,4.2f)
-                .sound(SoundType.field_235587_I_)
+                .sound(SoundType.BASALT)
                 .harvestLevel(0)
                 .harvestTool(ToolType.PICKAXE)
-                .func_235861_h_());
+                .setRequiresTool());
     }
 }
